@@ -1,0 +1,2 @@
+python MullvadBruteforcer.py
+pause
